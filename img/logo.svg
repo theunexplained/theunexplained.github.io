@@ -88,8 +88,8 @@
          id="tspan3010"
          x="224.1937"
          y="157.5338"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;letter-spacing:0px;fill:#1a1a1a;font-family:Fira Sans;-inkscape-font-specification:Fira Sans">THE<tspan
-   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;letter-spacing:0px;fill:#666666;font-family:Fira Sans;-inkscape-font-specification:Fira Sans"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;letter-spacing:0px;fill:#1a1a1a;font-family:Fira Sans, Fira Sans OT, Fira Sans, Fira Sans OT OT;-inkscape-font-specification:Fira Sans, Fira Sans OT">THE<tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;letter-spacing:0px;fill:#666666;font-family:Fira Sans, Fira Sans OT;-inkscape-font-specification:Fira Sans, Fira Sans OT"
    id="tspan3058"
    dx="0 0 0 0">UN</tspan>EXPLAINED</tspan></text>
     <text
@@ -103,7 +103,7 @@
          id="tspan2987"
          x="717.35352"
          y="907.48431"
-         style="font-size:168.99940491px;font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;text-align:start;line-height:139.99999762%;writing-mode:lr-tb;text-anchor:start;fill:#1a1a1a;font-family:Fira Sans;-inkscape-font-specification:Fira Sans Ultra-Heavy">?</tspan></text>
+         style="font-size:168.99940491px;font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;text-align:start;line-height:139.99999762%;writing-mode:lr-tb;text-anchor:start;fill:#1a1a1a;font-family:Fira Sans, Fira Sans OT;-inkscape-font-specification:Fira Sans, Fira Sans OT Ultra-Heavy">?</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:110.30331421px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:139.99999762%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Abecedario;-inkscape-font-specification:Abecedario"
@@ -115,8 +115,8 @@
          id="tspan3010-2"
          x="396.88324"
          y="752.71344"
-         style="font-size:113.60712433px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;letter-spacing:0px;fill:#e6e6e6;font-family:Fira Sans;-inkscape-font-specification:Fira Sans"><tspan
-           style="font-size:113.60712433px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;letter-spacing:0px;fill:#b3b3b3;font-family:Fira Sans;-inkscape-font-specification:Fira Sans"
+         style="font-size:113.60712433px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;letter-spacing:0px;fill:#e6e6e6;font-family:Fira Sans, Fira Sans OT;-inkscape-font-specification:Fira Sans, Fira Sans OT"><tspan
+           style="font-size:113.60712433px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;letter-spacing:0px;fill:#b3b3b3;font-family:Fira Sans, Fira Sans OT;-inkscape-font-specification:Fira Sans, Fira Sans OT"
            id="tspan3058-3"
            dx="0 0 0 0">UN</tspan><tspan
            style="font-size:113.60712433px;fill:#f9f9f9"
@@ -132,6 +132,6 @@
          id="tspan3010-2-2"
          x="684.80853"
          y="611.71454"
-         style="font-size:87.39009857px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;letter-spacing:0px;fill:#f9f9f9;font-family:Fira Sans;-inkscape-font-specification:Fira Sans Bold">THE</tspan></text>
+         style="font-size:87.39009857px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;letter-spacing:0px;fill:#f9f9f9;font-family:Fira Sans, Fira Sans OT;-inkscape-font-specification:Fira Sans, Fira Sans OT Bold">THE</tspan></text>
   </g>
 </svg>
