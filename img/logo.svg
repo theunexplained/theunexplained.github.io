@@ -14,7 +14,10 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="logo.svg">
+   sodipodi:docname="logo.svg"
+   inkscape:export-filename="/var/www/theunexplained.github.io/img/logo.png"
+   inkscape:export-xdpi="44.606899"
+   inkscape:export-ydpi="44.606899">
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -26,7 +29,7 @@
      inkscape:pageshadow="2"
      inkscape:zoom="0.5"
      inkscape:cx="464.62041"
-     inkscape:cy="319.68145"
+     inkscape:cy="479.68145"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -49,7 +52,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -66,40 +69,33 @@
        sodipodi:cy="514.80621"
        sodipodi:rx="213.97314"
        sodipodi:ry="213.97314"
-       d="m 791.37668,363.50435 a 213.97314,213.97314 0 1 1 -0.23173,-0.23138"
+       d="m 791.37668,363.50435 c 83.56172,83.5617 83.56172,219.042 2e-5,302.60372 -83.56171,83.56171 -219.04201,83.56172 -302.60373,10e-6 -83.56171,-83.56171 -83.56172,-219.04201 -10e-6,-302.60372 83.4713,-83.4713 218.77304,-83.57484 302.37199,-0.23139"
        transform="matrix(1.0209187,0,0,1.0209187,105.71653,186.73893)"
        sodipodi:start="5.4977871"
        sodipodi:end="11.779442"
-       sodipodi:open="true" />
+       sodipodi:open="true"
+       inkscape:export-filename="/var/www/theunexplained.github.io/img/text3008-0-3.png"
+       inkscape:export-xdpi="44.503483"
+       inkscape:export-ydpi="44.503483" />
     <path
        style="fill:#4d4d4d;stroke:none"
        d="m 1153.076,633.47334 -807.39773,1.83433 19.85021,77.34255 -18.36085,78.50488 c 0.29117,-0.9734 806.41897,0.16568 806.41897,0.16568 l -18.3609,-82.50487 z"
        id="path3082"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccccccc" />
-    <text
-       font-family="Fira Sans, Fira Sans OT"
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;letter-spacing:0px;fill:#666666;font-family:Fira Sans, Fira Sans OT;-inkscape-font-specification:Fira Sans, Fira Sans OT;"
-       x="224.1937"
-       y="157.5338"
-       id="text3008"
-       sodipodi:linespacing="140%"><tspan
-         sodipodi:role="line"
-         id="tspan3010"
-         x="224.1937"
-         y="157.5338"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;letter-spacing:0px;fill:#1a1a1a;font-family:Fira Sans, Fira Sans OT;-inkscape-font-specification:Fira Sans, Fira Sans OT;">THE<tspan
-   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;letter-spacing:0px;fill:#666666;font-family:Fira Sans, Fira Sans OT;-inkscape-font-specification:Fira Sans, Fira Sans OT;"
-   id="tspan3058"
-   dx="0 0 0 0">UN</tspan>EXPLAINED</tspan></text>
+       sodipodi:nodetypes="ccccccc"
+       inkscape:export-filename="/var/www/theunexplained.github.io/img/text3008-0-3.png"
+       inkscape:export-xdpi="44.503483"
+       inkscape:export-ydpi="44.503483" />
     <text
        xml:space="preserve"
        style="font-size:43.33317566px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:139.99999762%;letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;font-family:Abecedario;-inkscape-font-specification:Abecedario"
        x="717.35352"
        y="907.48431"
        id="text2985"
-       sodipodi:linespacing="140%"><tspan
+       sodipodi:linespacing="140%"
+       inkscape:export-filename="/var/www/theunexplained.github.io/img/text3008-0-3.png"
+       inkscape:export-xdpi="44.503483"
+       inkscape:export-ydpi="44.503483"><tspan
          sodipodi:role="line"
          id="tspan2987"
          x="717.35352"
@@ -111,7 +107,9 @@
        x="396.88324"
        y="752.71344"
        id="text3008-0"
-       sodipodi:linespacing="140%"><tspan
+       sodipodi:linespacing="140%"
+       inkscape:export-xdpi="44.503483"
+       inkscape:export-ydpi="44.503483"><tspan
          sodipodi:role="line"
          id="tspan3010-2"
          x="396.88324"
@@ -128,7 +126,9 @@
        x="684.80853"
        y="611.71454"
        id="text3008-0-3"
-       sodipodi:linespacing="140%"><tspan
+       sodipodi:linespacing="140%"
+       inkscape:export-xdpi="44.503483"
+       inkscape:export-ydpi="44.503483"><tspan
          sodipodi:role="line"
          id="tspan3010-2-2"
          x="684.80853"

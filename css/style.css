@@ -135,12 +135,16 @@ input:focus, input:active, button:focus, button:active{
   margin: 0 auto;
   text-align: center;
 }
-.sitehead__title{
+.sitehead__logo{
   width: 100%;
   max-width: 300px;
-  position: relative;
-/*  top:-18px;*/
-/*  left:10%;*/
+  text-align: center;
+}
+
+.sitehead__logo object{
+  width: 100%;
+  max-width: 300px;
+  margin: 0 auto;
 }
 
 .sitehead__nav li{
