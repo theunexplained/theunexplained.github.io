@@ -226,7 +226,8 @@ input:focus, input:active, button:focus, button:active{
   }
 
   .about__panel{
-    max-width: 32.9%;
+    width: 100%;
+    max-width: 32.5%;
     padding:2%;
     display:inline-block;
   }
