@@ -9,16 +9,15 @@
   <meta name="HandheldFriendly" content="True">
   <link rel="stylesheet" href="css/typeplate.css">
   <link rel="stylesheet" href="octicons/octicons.css">
-  <style type="text/css" src="css/outdatedBrowser.min.css"></style>
   <link rel="stylesheet" href="//brick.a.ssl.fastly.net/Fira+Sans:300,400,500,700,300i,400i,500i,700i">
   <link rel="stylesheet" href="css/style.css">
   <title>The Unexplained &raquo; Discover, ponder, and discuss the enigmas science can’t explain</title>
 </head>
 <body>
 <header class="sitehead">
-<img src="img/logo.png" class="sitehead__logo" alt="The Unexplained Logo">
-
-
+  <a class="unstyled-anchor" href="index.html">
+    <img src="img/logo.png" class="sitehead__logo" alt="The Unexplained Logo">
+  </a>
 </header>
 <div class="container">
 
@@ -100,7 +99,39 @@
 
 <script async src="js/share.min.js"></script>
 <script async src="js/outdatedBrowser.min.js"></script>
-<script async src="js/theunexplained.js"></script>
+<!--<script async src="js/theunexplained.js"></script>-->
+
+<script>
+
+var config = {
+  url: "http://theunexplained.github.io",
+  title: "The Unexplained",
+  text: "Discover the enigmas around us that science can’t explain, wonder about them, discuss them … maybe even solve them. By @omphalosskeptic" ,
+  image: "http://theunexplained.github.io/img/what-science-can’t-explain.png",
+  networks: {
+    google_plus: {
+      enabled: true,
+    },
+    twitter: {
+      enabled: true,
+    },
+    facebook: {
+      enabled: true,
+    },
+    pinterest: {
+      enabled: true,
+    },
+    email: {
+      enabled: true,
+      title: "The Unexplained: Discover, discuss, and solve the enigmas around us that science can’t explain. ",
+      description:  "I ran across this neat startup and thought you might be interested: http://theunexplained.github.io",
+    }
+  }
+}
+
+var share = new Share(".share-button", config);
+
+</script>
 
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
