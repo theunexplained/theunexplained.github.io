@@ -32,10 +32,10 @@ $( document ).ready(function() {
 
 
 var config = {
-  url: "http://theunexplained.ca",
+  url: "http://theunexplained.github.io",
   title: "The Unexplained",
-  text: "Discover the enigmas around us that science can’t explain, discuss them, and just maybe solve them. By @omphalosskeptic" ,
-  image: "http://markdowner.github.io/img/markdown-humanized.png",
+  text: "Discover the enigmas around us that science can’t explain, wonder about them, discuss them … maybe even solve them. By @omphalosskeptic" ,
+  image: "http://theunexplained.github.io/img/what-science-can’t-explain.png",
   networks: {
     google_plus: {
       enabled: true,
@@ -51,8 +51,8 @@ var config = {
     },
     email: {
       enabled: true,
-      title: "The Unexplained: Discover, discuss  and solve the enigmas around us that science can’t explain. ",
-      description:  "I ran across this neat startup and thought you might be interested: http://theunexplained.ca",
+      title: "The Unexplained: Discover, discuss, and solve the enigmas around us that science can’t explain. ",
+      description:  "I ran across this neat startup and thought you might be interested: http://theunexplained.github.io",
     }
   }
 }
